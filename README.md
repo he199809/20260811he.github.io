@@ -11,3 +11,5 @@ The site is deployed with GitHub Pages through the workflow in `.github/workflow
 In the repository settings, set **Pages → Build and deployment → Source** to **GitHub Actions**.
 
 The homepage is a static HTML site and requires no build step.
+
+<!-- Deployment trigger -->
